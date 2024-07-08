@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "prestamos_biblioteca_backend": {
+      "main": "src/prestamos_biblioteca_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
